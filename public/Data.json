@@ -1,0 +1,30 @@
+[
+    {
+        "id":0,
+        "firstName":"Augustine",
+        "secondName":"Cudjoe",
+        "aptDate":"1994-11-22 1:45",
+        "aptNote":"I am mr Cudjoe"
+        
+
+    },
+    {
+        "id":1,
+        "firstName":"Stella",
+        "secondName":"Mbama",
+        "aptDate":"1994-11-22 12:09",
+        "aptNote":"I am mrs Mbama"
+        
+
+    },
+    {
+        "id":2,
+        "firstName":"Mina",
+        "secondName":"Naa",
+        "aptDate":"1994-11-22 11:00",
+        "aptNote":"I am mis Mina"
+        
+
+    }
+
+]
